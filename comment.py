@@ -1,6 +1,6 @@
 #comment.py
 str_single = 'シングルクォートで"文字列"を作成できます。'
-str_dubble = "ダブルクオートで'文字列'を作成できます。"
+str_double = "ダブルクオートで'文字列'を作成できます。"
 str_triple1 = '''
             改行付きで
             文字列を書くことが
@@ -15,7 +15,7 @@ str_triple2 = """
 
 print(str_single)
 print()
-print(str_dubble)
+print(str_double)
 print()
 print(str_triple1)
 print()
